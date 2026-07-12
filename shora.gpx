@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://mapy.com/">
+	<trk>
+		<name>K Opičí skále z horní cesty</name>
+		<trkseg>
+			<trkpt lat="50.275350" lon="12.730933">
+				<ele>508.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275350" lon="12.730984">
+				<ele>510.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275350" lon="12.731057">
+				<ele>513.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275348" lon="12.731133">
+				<ele>515.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275359" lon="12.731203">
+				<ele>520.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275384" lon="12.731266">
+				<ele>515.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275395" lon="12.731340">
+				<ele>522.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275371" lon="12.731481">
+				<ele>523.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275324" lon="12.731561">
+				<ele>517.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275256" lon="12.731639">
+				<ele>516.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275204" lon="12.731683">
+				<ele>529.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275123" lon="12.731747">
+				<ele>526.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275083" lon="12.731789">
+				<ele>516.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275049" lon="12.731841">
+				<ele>526.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275004" lon="12.731883">
+				<ele>515.000000</ele>
+			</trkpt>
+			<trkpt lat="50.274961" lon="12.731900">
+				<ele>523.000000</ele>
+			</trkpt>
+			<trkpt lat="50.274916" lon="12.731939">
+				<ele>514.000000</ele>
+			</trkpt>
+			<trkpt lat="50.274880" lon="12.731977">
+				<ele>520.000000</ele>
+			</trkpt>
+			<trkpt lat="50.274797" lon="12.732056">
+				<ele>520.000000</ele>
+			</trkpt>
+			<trkpt lat="50.274764" lon="12.732194">
+				<ele>518.000000</ele>
+			</trkpt>
+			<trkpt lat="50.274757" lon="12.732344">
+				<ele>522.000000</ele>
+			</trkpt>
+			<trkpt lat="50.274753" lon="12.732494">
+				<ele>523.000000</ele>
+			</trkpt>
+			<trkpt lat="50.274752" lon="12.732623">
+				<ele>527.000000</ele>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
+

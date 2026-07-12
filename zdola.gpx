@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="https://mapy.com/">
+	<trk>
+		<name>K Opičí skále z dolní cesty</name>
+		<trkseg>
+			<trkpt lat="50.275350" lon="12.730933">
+				<ele>508.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275345" lon="12.730864">
+				<ele>506.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275340" lon="12.730786">
+				<ele>505.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275352" lon="12.730713">
+				<ele>503.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275371" lon="12.730628">
+				<ele>501.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275383" lon="12.730524">
+				<ele>502.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275389" lon="12.730459">
+				<ele>501.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275402" lon="12.730386">
+				<ele>499.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275431" lon="12.730338">
+				<ele>501.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275475" lon="12.730294">
+				<ele>504.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275497" lon="12.730239">
+				<ele>500.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275508" lon="12.730209">
+				<ele>500.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275522" lon="12.730169">
+				<ele>504.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275558" lon="12.730138">
+				<ele>499.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275610" lon="12.730134">
+				<ele>505.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275704" lon="12.730126">
+				<ele>505.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275797" lon="12.730117">
+				<ele>499.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275886" lon="12.730101">
+				<ele>505.000000</ele>
+			</trkpt>
+			<trkpt lat="50.275989" lon="12.730097">
+				<ele>498.000000</ele>
+			</trkpt>
+			<trkpt lat="50.276065" lon="12.730110">
+				<ele>498.000000</ele>
+			</trkpt>
+			<trkpt lat="50.276146" lon="12.730154">
+				<ele>499.000000</ele>
+			</trkpt>
+			<trkpt lat="50.276168" lon="12.730080">
+				<ele>499.000000</ele>
+			</trkpt>
+			<trkpt lat="50.276188" lon="12.730001">
+				<ele>500.000000</ele>
+			</trkpt>
+			<trkpt lat="50.276266" lon="12.730055">
+				<ele>500.000000</ele>
+			</trkpt>
+			<trkpt lat="50.276327" lon="12.730114">
+				<ele>500.000000</ele>
+			</trkpt>
+			<trkpt lat="50.276388" lon="12.730162">
+				<ele>501.000000</ele>
+			</trkpt>
+			<trkpt lat="50.276426" lon="12.730182">
+				<ele>509.000000</ele>
+			</trkpt>
+			<trkpt lat="50.276460" lon="12.730152">
+				<ele>502.000000</ele>
+			</trkpt>
+			<trkpt lat="50.276484" lon="12.730105">
+				<ele>503.000000</ele>
+			</trkpt>
+			<trkpt lat="50.276537" lon="12.729965">
+				<ele>504.000000</ele>
+			</trkpt>
+			<trkpt lat="50.276567" lon="12.729890">
+				<ele>505.000000</ele>
+			</trkpt>
+			<trkpt lat="50.276582" lon="12.729838">
+				<ele>505.000000</ele>
+			</trkpt>
+			<trkpt lat="50.276598" lon="12.729788">
+				<ele>505.000000</ele>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
+
