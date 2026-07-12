@@ -1,0 +1,12 @@
+Zveřejnění nebo aktualizace přetažením adresáře do pole Production Deploys na odkazu
+https://app.netlify.com/projects/smolnice/overview
+
+Správná terminologie:
+
+Dvouvozový zakladač:
+Nabírací vůz
+Vykládací vůz
+
+Kolejová doprava materiálu:
+Výsypný vůz
+
